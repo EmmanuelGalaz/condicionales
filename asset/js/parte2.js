@@ -15,7 +15,7 @@ function verificar() {
         document.querySelector("#resultado").style.color = "black";
     } else {
         document.querySelector("#resultado").innerHTML =
-            "Sobrepasaste el limite de funcos recuerde que la capasidad maxima es de 10  &#128531; (" + resultado + ")";
+            "Sobrepasaste el limite de funcos recuerde que la capacidad maxima es de 10  &#128531; (" + resultado + ")";
         document.querySelector("#resultado").style.color = "red";
     }
 }

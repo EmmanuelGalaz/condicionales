@@ -18,7 +18,7 @@ function contraseña() {
         document.querySelector("#textValidacion").style.backgroundColor = "green";
     } else {
         document.querySelector("#textValidacion").innerHTML =
-            "Tu contraseña no es valida contraseña \"INGRESE  OTRA  POR  FAVOR\"";
+            "Tu contraseña no es valida \"INGRESE  OTRA  POR  FAVOR\"";
         document.querySelector("#textValidacion").style.backgroundColor = "red";
         document.querySelector("#textValidacion").style.color = "white";
     }

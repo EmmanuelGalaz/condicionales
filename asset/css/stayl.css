@@ -1,0 +1,16 @@
+body {
+    background-color: azure;
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+.container{
+    width: 100%;
+    justify-items: left;
+}
+img{
+    width: 500px;
+    height: 400px;
+    cursor: pointer;
+}

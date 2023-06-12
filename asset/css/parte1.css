@@ -1,0 +1,27 @@
+body {
+    background-color: azure;
+    display: grid;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.container1 {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    margin-top: 200px;
+   
+
+}
+
+.container1 img {
+    margin-top: 25px;
+    width: 230px;
+    height: 230px;
+    cursor: pointer;
+    border: solid 2px azure;
+    border
+}
